@@ -1,0 +1,14 @@
+c:\Users\sholo\Desktop\Projects\C# projects\learning\BethanysPieShopHRM\bin\Debug\net8.0\BethanysPieShopHRM.exe
+C:\Users\sholo\Desktop\Projects\C# projects\learning\BethanysPieShopHRM\bin\Debug\net8.0\BethanysPieShopHRM.deps.json
+C:\Users\sholo\Desktop\Projects\C# projects\learning\BethanysPieShopHRM\bin\Debug\net8.0\BethanysPieShopHRM.runtimeconfig.json
+c:\Users\sholo\Desktop\Projects\C# projects\learning\BethanysPieShopHRM\bin\Debug\net8.0\BethanysPieShopHRM.dll
+c:\Users\sholo\Desktop\Projects\C# projects\learning\BethanysPieShopHRM\bin\Debug\net8.0\BethanysPieShopHRM.pdb
+c:\Users\sholo\Desktop\Projects\C# projects\learning\BethanysPieShopHRM\obj\Debug\net8.0\BethanysPieShopHRM.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\sholo\Desktop\Projects\C# projects\learning\BethanysPieShopHRM\obj\Debug\net8.0\BethanysPieShopHRM.AssemblyInfoInputs.cache
+c:\Users\sholo\Desktop\Projects\C# projects\learning\BethanysPieShopHRM\obj\Debug\net8.0\BethanysPieShopHRM.AssemblyInfo.cs
+c:\Users\sholo\Desktop\Projects\C# projects\learning\BethanysPieShopHRM\obj\Debug\net8.0\BethanysPieShopHRM.csproj.CoreCompileInputs.cache
+c:\Users\sholo\Desktop\Projects\C# projects\learning\BethanysPieShopHRM\obj\Debug\net8.0\BethanysPieShopHRM.dll
+c:\Users\sholo\Desktop\Projects\C# projects\learning\BethanysPieShopHRM\obj\Debug\net8.0\refint\BethanysPieShopHRM.dll
+c:\Users\sholo\Desktop\Projects\C# projects\learning\BethanysPieShopHRM\obj\Debug\net8.0\BethanysPieShopHRM.pdb
+C:\Users\sholo\Desktop\Projects\C# projects\learning\BethanysPieShopHRM\obj\Debug\net8.0\BethanysPieShopHRM.genruntimeconfig.cache
+C:\Users\sholo\Desktop\Projects\C# projects\learning\BethanysPieShopHRM\obj\Debug\net8.0\ref\BethanysPieShopHRM.dll
