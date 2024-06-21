@@ -12,3 +12,4 @@ c:\Users\sholo\Desktop\Projects\C# projects\learning\BethanysPieShopHRM\obj\Debu
 c:\Users\sholo\Desktop\Projects\C# projects\learning\BethanysPieShopHRM\obj\Debug\net8.0\BethanysPieShopHRM.pdb
 C:\Users\sholo\Desktop\Projects\C# projects\learning\BethanysPieShopHRM\obj\Debug\net8.0\BethanysPieShopHRM.genruntimeconfig.cache
 C:\Users\sholo\Desktop\Projects\C# projects\learning\BethanysPieShopHRM\obj\Debug\net8.0\ref\BethanysPieShopHRM.dll
+c:\Users\sholo\Desktop\Projects\C# projects\learning\BethanysPieShopHRM\obj\Debug\net8.0\BethanysPieShopHRM.sourcelink.json
