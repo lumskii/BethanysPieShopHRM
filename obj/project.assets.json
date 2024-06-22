@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\sholo\\.nuget\\packages\\": {}
+    "/Users/apple/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sholo\\Desktop\\Projects\\C# projects\\learning\\BethanysPieShopHRM\\BethanysPieShopHRM.csproj",
+      "projectUniqueName": "/Users/apple/Documents/csharp/BethanysPieShopHRM/BethanysPieShopHRM.csproj",
       "projectName": "BethanysPieShopHRM",
-      "projectPath": "C:\\Users\\sholo\\Desktop\\Projects\\C# projects\\learning\\BethanysPieShopHRM\\BethanysPieShopHRM.csproj",
-      "packagesPath": "C:\\Users\\sholo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sholo\\Desktop\\Projects\\C# projects\\learning\\BethanysPieShopHRM\\obj\\",
+      "projectPath": "/Users/apple/Documents/csharp/BethanysPieShopHRM/BethanysPieShopHRM.csproj",
+      "packagesPath": "/Users/apple/.nuget/packages/",
+      "outputPath": "/Users/apple/Documents/csharp/BethanysPieShopHRM/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sholo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/apple/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -38,6 +38,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -59,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.1.23455.8/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
