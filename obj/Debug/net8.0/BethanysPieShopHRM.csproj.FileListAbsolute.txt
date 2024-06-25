@@ -1,14 +1,29 @@
-c:\Users\sholo\Desktop\Projects\C# projects\learning\BethanysPieShopHRM\bin\Debug\net8.0\BethanysPieShopHRM.exe
-C:\Users\sholo\Desktop\Projects\C# projects\learning\BethanysPieShopHRM\bin\Debug\net8.0\BethanysPieShopHRM.deps.json
-C:\Users\sholo\Desktop\Projects\C# projects\learning\BethanysPieShopHRM\bin\Debug\net8.0\BethanysPieShopHRM.runtimeconfig.json
-c:\Users\sholo\Desktop\Projects\C# projects\learning\BethanysPieShopHRM\bin\Debug\net8.0\BethanysPieShopHRM.dll
-c:\Users\sholo\Desktop\Projects\C# projects\learning\BethanysPieShopHRM\bin\Debug\net8.0\BethanysPieShopHRM.pdb
-c:\Users\sholo\Desktop\Projects\C# projects\learning\BethanysPieShopHRM\obj\Debug\net8.0\BethanysPieShopHRM.GeneratedMSBuildEditorConfig.editorconfig
-c:\Users\sholo\Desktop\Projects\C# projects\learning\BethanysPieShopHRM\obj\Debug\net8.0\BethanysPieShopHRM.AssemblyInfoInputs.cache
-c:\Users\sholo\Desktop\Projects\C# projects\learning\BethanysPieShopHRM\obj\Debug\net8.0\BethanysPieShopHRM.AssemblyInfo.cs
-c:\Users\sholo\Desktop\Projects\C# projects\learning\BethanysPieShopHRM\obj\Debug\net8.0\BethanysPieShopHRM.csproj.CoreCompileInputs.cache
-c:\Users\sholo\Desktop\Projects\C# projects\learning\BethanysPieShopHRM\obj\Debug\net8.0\BethanysPieShopHRM.dll
-c:\Users\sholo\Desktop\Projects\C# projects\learning\BethanysPieShopHRM\obj\Debug\net8.0\refint\BethanysPieShopHRM.dll
-c:\Users\sholo\Desktop\Projects\C# projects\learning\BethanysPieShopHRM\obj\Debug\net8.0\BethanysPieShopHRM.pdb
-C:\Users\sholo\Desktop\Projects\C# projects\learning\BethanysPieShopHRM\obj\Debug\net8.0\BethanysPieShopHRM.genruntimeconfig.cache
-C:\Users\sholo\Desktop\Projects\C# projects\learning\BethanysPieShopHRM\obj\Debug\net8.0\ref\BethanysPieShopHRM.dll
+c:/Users/sholo/Desktop/Projects/C# projects/learning/BethanysPieShopHRM/bin/Debug/net8.0/BethanysPieShopHRM.exe
+C:/Users/sholo/Desktop/Projects/C# projects/learning/BethanysPieShopHRM/bin/Debug/net8.0/BethanysPieShopHRM.deps.json
+C:/Users/sholo/Desktop/Projects/C# projects/learning/BethanysPieShopHRM/bin/Debug/net8.0/BethanysPieShopHRM.runtimeconfig.json
+c:/Users/sholo/Desktop/Projects/C# projects/learning/BethanysPieShopHRM/bin/Debug/net8.0/BethanysPieShopHRM.dll
+c:/Users/sholo/Desktop/Projects/C# projects/learning/BethanysPieShopHRM/bin/Debug/net8.0/BethanysPieShopHRM.pdb
+c:/Users/sholo/Desktop/Projects/C# projects/learning/BethanysPieShopHRM/obj/Debug/net8.0/BethanysPieShopHRM.GeneratedMSBuildEditorConfig.editorconfig
+c:/Users/sholo/Desktop/Projects/C# projects/learning/BethanysPieShopHRM/obj/Debug/net8.0/BethanysPieShopHRM.AssemblyInfoInputs.cache
+c:/Users/sholo/Desktop/Projects/C# projects/learning/BethanysPieShopHRM/obj/Debug/net8.0/BethanysPieShopHRM.AssemblyInfo.cs
+c:/Users/sholo/Desktop/Projects/C# projects/learning/BethanysPieShopHRM/obj/Debug/net8.0/BethanysPieShopHRM.csproj.CoreCompileInputs.cache
+c:/Users/sholo/Desktop/Projects/C# projects/learning/BethanysPieShopHRM/obj/Debug/net8.0/BethanysPieShopHRM.dll
+c:/Users/sholo/Desktop/Projects/C# projects/learning/BethanysPieShopHRM/obj/Debug/net8.0/refint/BethanysPieShopHRM.dll
+c:/Users/sholo/Desktop/Projects/C# projects/learning/BethanysPieShopHRM/obj/Debug/net8.0/BethanysPieShopHRM.pdb
+C:/Users/sholo/Desktop/Projects/C# projects/learning/BethanysPieShopHRM/obj/Debug/net8.0/BethanysPieShopHRM.genruntimeconfig.cache
+C:/Users/sholo/Desktop/Projects/C# projects/learning/BethanysPieShopHRM/obj/Debug/net8.0/ref/BethanysPieShopHRM.dll
+/Users/apple/Documents/csharp/BethanysPieShopHRM/bin/Debug/net8.0/BethanysPieShopHRM
+/Users/apple/Documents/csharp/BethanysPieShopHRM/bin/Debug/net8.0/BethanysPieShopHRM.deps.json
+/Users/apple/Documents/csharp/BethanysPieShopHRM/bin/Debug/net8.0/BethanysPieShopHRM.runtimeconfig.json
+/Users/apple/Documents/csharp/BethanysPieShopHRM/bin/Debug/net8.0/BethanysPieShopHRM.dll
+/Users/apple/Documents/csharp/BethanysPieShopHRM/bin/Debug/net8.0/BethanysPieShopHRM.pdb
+/Users/apple/Documents/csharp/BethanysPieShopHRM/obj/Debug/net8.0/BethanysPieShopHRM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/csharp/BethanysPieShopHRM/obj/Debug/net8.0/BethanysPieShopHRM.AssemblyInfoInputs.cache
+/Users/apple/Documents/csharp/BethanysPieShopHRM/obj/Debug/net8.0/BethanysPieShopHRM.AssemblyInfo.cs
+/Users/apple/Documents/csharp/BethanysPieShopHRM/obj/Debug/net8.0/BethanysPieShopHRM.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/csharp/BethanysPieShopHRM/obj/Debug/net8.0/BethanysPieShopHRM.sourcelink.json
+/Users/apple/Documents/csharp/BethanysPieShopHRM/obj/Debug/net8.0/BethanysPieShopHRM.dll
+/Users/apple/Documents/csharp/BethanysPieShopHRM/obj/Debug/net8.0/refint/BethanysPieShopHRM.dll
+/Users/apple/Documents/csharp/BethanysPieShopHRM/obj/Debug/net8.0/BethanysPieShopHRM.pdb
+/Users/apple/Documents/csharp/BethanysPieShopHRM/obj/Debug/net8.0/BethanysPieShopHRM.genruntimeconfig.cache
+/Users/apple/Documents/csharp/BethanysPieShopHRM/obj/Debug/net8.0/ref/BethanysPieShopHRM.dll

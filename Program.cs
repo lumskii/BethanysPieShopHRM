@@ -1,12 +1,11 @@
-﻿// wage calculator
+﻿// int a = 2;
+// string b = "3";
+// var result = a + b;
 
-static int calculatorYearlyWage(int monthlyWage, int numOfMonthsWorked){
-    //Console.WriteLine($"Yearly wage: {monthlyWage * numOfMonthsWorked}");
-    return monthlyWage * numOfMonthsWorked;
-}
+// Console.WriteLine(result);
 
-int amount = 1234;
-int months = 12;
+int myInt = 3;
+Console.WriteLine($"Int: {myInt}");
 
-// Console.WriteLine(calculatorYearlyWage(amount, months));
-calculatorYearlyWage(amount, months);
+decimal myDecimal = myInt;
+Console.WriteLine($"My decimal: {myDecimal}");
