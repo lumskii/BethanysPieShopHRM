@@ -1,11 +1,46 @@
-﻿// int a = 2;
-// string b = "3";
-// var result = a + b;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-// Console.WriteLine(result);
+const string input = "<div><h2>Widgets &trade;</h2><span>5000</span></div>";
 
-int myInt = 3;
-Console.WriteLine($"Int: {myInt}");
+string quantity = "";
+string output = "";
 
-decimal myDecimal = myInt;
-Console.WriteLine($"My decimal: {myDecimal}");
+// Your work here
+int opening = input.IndexOf("5");
+int closing = input.IndexOf("0");
+
+// Extract the "quantity"
+const string openSpan = "<span>";
+const string closeSpan = "</span>";
+
+int quantityStart = input.IndexOf(openSpan) + openSpan.Length; // + length of <span> so index at end of <span> tag
+int quantityEnd= input.IndexOf(closeSpan);
+int quantityLength = quantityEnd - quantityStart;
+quantity = input.Substring(quantityStart, quantityLength);
+quantity = $"Quantity: {quantity}";
+
+// Set output to input, replacing the trademark symbol with the registered trademark symbol
+const string tradeSymbol = "&trade;";
+const string regSymbol = "&reg;";
+output = input.Replace(tradeSymbol, regSymbol);
+
+// Remove the opening <div> tag
+const string openDiv = "<div>";
+int divStart = output.IndexOf(openDiv);
+output = output.Remove(divStart, openDiv.Length);
+
+// Remove the closing </div> tag and add "Output:" to the beginning
+const string closeDiv = "</div>";
+int divCloseStart = output.IndexOf(closeDiv);
+output = "Output: " + output.Remove(divCloseStart, closeDiv.Length);
+
+Console.WriteLine(quantity);
+Console.WriteLine(output);
+
+// Expected Result
+// Quantity: 5000
+// Output: <h2>Widgets &reg;</h2><span>5000</span>
