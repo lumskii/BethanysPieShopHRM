@@ -1,60 +1,33 @@
-﻿// decimal myDecimal = 3.5m;
-// Console.WriteLine($"decimal: {myDecimal}");
+﻿Random random = new Random();
+int luck = random.Next(100);
 
-// int myInt = (int)myDecimal;
-// Console.WriteLine($"int: {myInt}");
+string[] text = ["You have much to", "Today is a day to", "Whatever work you do", "This is an ideal time to"];
+string[] good = ["look forward to.", "try new things!", "is likely to succeed.", "accomplish your dreams!"];
+string[] bad = ["fear.", "avoid major decisions.", "may have unexpected outcomes.", "re-evaluate your life."];
+string[] neutral = ["appreciate.", "enjoy time with friends.", "should align with your values.", "get in tune with nature."];
 
-// //---String to int---
-// string first = "5";
-// string second = "7";
-// int sum = int.Parse(first) + int.Parse(second);
-// Console.WriteLine(sum);
-
-// string value1 = "5";
-// string value2 = "7";
-
-// int result = Convert.ToInt32(value1) * Convert.ToInt32(value2);
-// Console.WriteLine(result);
-
-// string myInput = "2.27";
-// decimal.TryParse(myInput, out decimal myInputDecimal);
-
-// Console.WriteLine(myInputDecimal);
-
-//--- CHALLANGE 1---
-string[] values = ["12.3", "45", "ABC", "11", "DEF"];
-
-decimal result = 0; 
-
-string alpha = "";
-
-for(int i = 0; i < values.Length; i++){
-    var sum = values[i];
-    if (decimal.TryParse(sum, out decimal item))
-    {
-        result += item;
-    } else {
-        alpha += sum;
-    }
+Console.WriteLine("A fortune teller whispers the following words:");
+string[] fortune = (luck > 75 ? good : (luck < 25 ? bad : neutral));
+for (int i = 0; i < 4; i++) 
+{
+    Console.Write($"{text[i]} {fortune[i]} ");
 }
 
-Console.WriteLine($"Message: {alpha}");
-Console.WriteLine("Total: " + result);
+// Update the code to use a method to display the fortune.
 
-//--- CHALLANGE 2---
-int value1 = 11;
-decimal value2 = 6.2m;
-float value3 = 4.3f;
+// Use what you've learned about creating and calling methods to complete the update.
 
-// Your code here to set result1
-int result1 = Convert.ToInt32(value1 / value2);
-// Hint: You need to round the result to nearest integer (don't just truncate)
-Console.WriteLine($"Divide value1 by value2, display the result as an int: {result1}");
+// Test your code by changing the value of luck and calling the method again.
 
-// Your code here to set result2
-decimal result2 = value2 / (decimal) value3;
-Console.WriteLine($"Divide value2 by value3, display the result as a decimal: {result2}");
+// Verify that your code produces one of the following messages:
 
-// Your code here to set result3
-float result3 = value3 / value1;
-Console.WriteLine($"Divide value3 by value1, display the result as a float: {result3}");
+//A fortune teller whispers the following words:
+//You have much to look forward to. Today is a day to try new things! Whatever work you do is likely to succeed. This is an ideal time to accomplish your dreams!
+
+string[] words = ["racecar" ,"talented", "deified", "tent", "tenet"];
+
+// Console.WriteLine("Is it a palindrome?");
+// foreach (string word in words) 
+// {
+//     Console.WriteLine($"{word}: {IsPalindrome(word)}");
+// }
